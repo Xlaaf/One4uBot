@@ -43,9 +43,9 @@ from userbot import BOTLOG, BOTLOG_CHATID, CMD_HELP, bot
 from userbot.events import register
 
 # =================== CONSTANT ===================
-PP_TOO_SMOL = "`The image is too small`"
-PP_ERROR = "`Failure while processing the image`"
-NO_ADMIN = "`I am not an admin!`"
+PP_TOO_SMOL = "`gambar terlalu kecil`"
+PP_ERROR = "`Kegagalan saat memproses gambar `"
+NO_ADMIN = "`Aku bukan admin hehe :)`"
 NO_PERM = "`I don't have sufficient permissions!`"
 NO_SQL = "`Running on Non-SQL mode!`"
 
